@@ -1,11 +1,8 @@
 # US_baby_names
 Anylysing the US baby names Data.
 
-En este Notebook se implemento mis distintos conocimientos para analysar la Data de todos los bebes
-nacidos en  estados unidos desde hace mas de 100 Anhos.
+In this Notebook I implemented my different knowledge to analyze the data of all the babies born in the United States for over 100 years.
 
-Se logro disehar, implementar y presentar distintos tipos de visualisacion en base a la Data estipulada.
+I was able to design, implement and present different types of visualization based on the stipulated data.
 
-Ademas en base a la curiosidad propia a los nombres de personas conocida. He logrado investigar y graficar 
-su cambio 7 durante el timepo. En este Notebook se logra agrupar distintos Daatasets en uno solo. Al igual 
-que solucionar distintos Challenges que se presentaron y se demuestran en el documento.
+Also based on my own curiosity to the names of known people. I have been able to investigate and graph their change over time. In this Notebook it is possible to group different daatasets together into a single one. As well as solving different Challenges that were presented and demonstrated in the document.
